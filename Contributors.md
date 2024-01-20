@@ -40,6 +40,7 @@ sad# Contributors
 - [Suved Ganduri](https://github.com/Sooowayydh)
 - [Tunde Suleiman] (https://github.com/tsuleiman03)
 - Temmy
+- Dayanand Gawade
 - Bhavya Singla
 - [Jon Gumero](https://github.com/jongumero)
 - [Ana Luisa Conrado](https://github.com/anaconrado) 
